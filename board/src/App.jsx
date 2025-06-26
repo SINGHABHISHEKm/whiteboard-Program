@@ -176,7 +176,7 @@ export default function App() {
     const target = e.currentTarget;
     transformerRef.current.nodes([target]);
   }
-
+//yes
   return (
     <>
       <div className="relative w-full h-screen overflow-hidden">
